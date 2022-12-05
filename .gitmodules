@@ -2,5 +2,3 @@
 	url = https://github.com/athirakp05/mypython.git
 [submodule "pythonProject"]
 	url = https://github.com/athirakp05/pythonProject.git
-[submodule "demo10"]
-	url = https://github.com/athirakp05/demo10.git
