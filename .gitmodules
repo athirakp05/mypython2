@@ -1,2 +1,4 @@
 [submodule "mypython"]
 	url = https://github.com/athirakp05/mypython.git
+[submodule "pythonProject"]
+	url = https://github.com/athirakp05/pythonProject.git
